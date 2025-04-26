@@ -2,7 +2,6 @@
 
 csci 441 final project - convert class components, implement routes, authenticate users 
 
-Please reference blackboard for the most current assignment instructons/requirements/points.
 
 Overview:
 
